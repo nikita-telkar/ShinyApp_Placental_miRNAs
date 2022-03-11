@@ -1,2 +1,3 @@
-# ShinyApp_Placental_miRNAs
-My app.R code for my R Shiny application
+Visit the [R Shiny app]() I built showcasing the **expression of microRNAs in the human placenta** ([GitHub repo for project here](https://github.com/nikita-telkar/Projects/tree/master/sncRNA%20in%20the%20Human%20Placenta%20(Pilot)))!
+
+- `app.R` file contains the code used to make the app (data *not* publicly available, as not yet published)
